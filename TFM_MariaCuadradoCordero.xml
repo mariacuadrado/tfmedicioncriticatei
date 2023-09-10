@@ -1,0 +1,753 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<!-- SOBRE SUS CONTENIDOS VÉASE http://thebarumfabula.usc.es/guidelines/cabecera-de-cada-documento-teiheader/ -->
+	<fileDesc> 
+		<titleStmt>
+			<title> Edición crítica de María, de Jorge Isaacs </title>
+			<author> María Cuadrado Cordero </author>
+		</titleStmt>
+		<publicationStmt>
+			<p> Edición Crítica de María, de Jorge Isaacs </p>
+		</publicationStmt>
+		<sourceDesc>
+			<p>Colaciones de copias</p>
+		</sourceDesc>
+	</fileDesc>
+</teiHeader>
+<text>
+<div>
+<lg>
+<l> El
+		<app>
+		<lem>veintiocho</lem>
+			<rdg type="error" wit="#T #L #R #M #S">veinticinco</rdg>
+			<rdg type="error" wit="#C">28</rdg>
+		</app>
+	de enero, dos días ántes del señalado para mi viaje, subí á la montaña muy temprano. 
+</l>
+<l> Braulio habia venido á llevarme, enviado por José y las
+		<app>
+		<lem>muchachas,</lem>
+			<rdg type="error" wit="#N #B">muchachas</rdg>
+		</app>
+	que deseaban recibir mi despedida en su casa. 
+</l>
+<l> El montañés no interrumpió mi silencio durante la marcha. Cuando llegamos, Tránsito y Lucía estaban ordeñando la vaca Mariposa en el patiecito de la cabaña de Braulio, y se levantaron á recibirme con sus agasagos y alegría
+		<app>
+		<lem>acostumbrada,</lem>
+			<rdg type="error" wit="#E #H #C #B #N">de costumbre,</rdg>
+		</app>
+		<app>
+		<lem>invitándome</lem>
+			<rdg type="error" wit="#E #H #C #B #N">convidándome</rdg>
+		</app>
+	á entrar.
+</l>
+</lg>
+
+<lg>
+<l> —Acabemos ántes de ordeñar la 
+		<app>
+		<lem>novillona, las</lem>
+			<rdg type="error" wit="#C">novillona—les</rdg>
+			<rdg type="error" wit="#T #R #S #N">novillona,—las</rdg>
+			<rdg type="error" wit="#E #H #B">novillona, les</rdg>
+		</app>
+	dije recostando mi escopeta en el
+		<app>
+		<lem>palenque, pero</lem>
+			<rdg type="error" wit="#T #R #C #S #N">palenque;—pero</rdg>
+			<rdg type="error" wit="#B">palenque; pero</rdg>
+		</app>
+	Lucía y yo solos,
+		<app>
+		<lem>porque</lem>
+			<rdg type="error" wit="#D">por que</rdg>
+		</app>
+	quiero conseguir así que se acuerde de mí todas las mañanas.
+</l>
+</lg>
+
+<lg>
+<l>Tomé el 
+		<app>
+		<lem>socobe,</lem>
+			<rdg type="error" wit="#M">socobe</rdg>
+		</app>
+	en cuyo fondo blanqueaban ya nevadas espumas, y poniéndolo bajo la ubre de la Mariposa, logré al fin que Lucía, toda avergonzada, lo acabase de llenar. 
+</l>
+<l> Miéntras esto hacia,
+		<app>
+		<lem>la</lem>
+			<rdg type="error" wit="#E #H #C #B">le</rdg>
+		</app>
+	dije mirándola por debajo de la
+		<app>
+		<lem>vaca.</lem>
+			<rdg type="error" wit="#E #T #D #A #L #R #H #C #S #B #N">vaca:</rdg>
+		</app>
+	
+</l>
+</lg>
+
+<lg>
+<l> —Como no se han acabado los sobrinos de 
+		<app>
+		<lem>José, pues</lem>
+			<rdg type="error" wit="#S">José; pues</rdg>
+		</app>
+	pues yo sé que Braulio tiene un hermano mas buen mozo que él, y que te quiere desde que estabas como una
+		<app>
+		<lem>muñeca....</lem>
+			<rdg type="error" wit="#E">muñeca......</rdg>
+			<rdg type="error" wit="#T #D #A #L #R #H #C #S #B #N">muñeca...</rdg>
+			<rdg type="error" wit="#M">muñeca.</rdg>
+		</app>
+</l>
+</lg>
+
+<lg>
+<l> —Como otro á
+	<app>
+	<lem> otra, me</lem>
+		<rdg type="error" wit="#T #R">otra,—me</rdg>
+		<rdg type="error" wit="#C #S #N">otra—me</rdg>
+	</app>
+interrumpió.
+</l>
+</lg>
+
+<lg>
+<l>—Lo mismo. Voy á decirle á la señora 
+		<app>
+		<lem>Luisa, que</lem>
+			<rdg type="error" wit="#H #C #B #N">Luisa que</rdg>
+		</app>
+	se empeñe con
+		<app>
+		<lem>su</lem>
+			<rdg type="error" wit="#T #D #A #L #H #S">el</rdg>
+		</app>
+	marido para que el sobrinito
+		<app>
+		<lem>venga á;</lem>
+			<rdg type="error" wit="#T #D #A #L #R #M #S">pueda;</rdg>
+		</app>
+	y así, cuando yo vuelva, no te pondrás colorada de todo.
+</l>
+</lg>
+		
+<lg>
+<l>
+		<app>
+		<lem>—He! he! dijo</lem>
+			<rdg type="error" wit="#M">¡Eh, eh! dijo</rdg>
+			<rdg type="error" wit="#H">¡He!¡he! dijo</rdg>
+			<rdg type="error" wit="#T">¡He!¡he!—dijo</rdg>
+			<rdg type="error" wit="#R">He! he!—dijo</rdg>
+			<rdg type="error" wit="#C #N">¡Eh, eh!—dijo</rdg>
+			<rdg type="error" wit="#S">¡Eh!¡eh!—dijo</rdg>
+			<rdg type="error" wit="#B">¡Eh, eh!, dijo</rdg>
+		</app>
+	dejando de ordeñar.
+</l>
+</lg>
+
+<lg>
+<l> —¿No acabas?
+</l>
+</lg>
+
+<lg>
+<l>
+		<app>
+		<lem>—Pero cómo quiere que acabe, si usté está tan zorral...</lem>
+			<rdg type="error" wit="#S">Pero ¿cómo quiere que acabe, si usté está tan zorral...</rdg>
+			<rdg type="error" wit="#B">Pero ¿cómo quiere que acabe, si usté está tan zorral?...</rdg>
+			<rdg type="error" wit="#N">Pero, ¿cómo quiere que acabe, si usté está tan zorral...?</rdg>
+			<rdg type="error" wit="#E">Pero cómo quiere que acabe, si usté está tan zorral......</rdg>
+			<rdg type="error" wit="#M">Pero cómo quiere que acabe, si usté está tan zorra</rdg>
+		</app>
+	Ya no tiene mas.
+</l>
+</lg>
+
+<lg>
+<l>
+		<app>
+		<lem>—Y</lem>
+			<rdg type="error" wit="#T #M #H #C #B #N">—¿Y</rdg>
+		</app>
+	esas dos tetas llenas? Ordéñalas.
+</l>
+</lg>
+
+<lg>
+<l>—Ello no; si esas son las del ternero.</l>
+</lg>
+
+<lg>
+<l> 
+		<app>
+		<lem>—¿Conque</lem>
+			<rdg type="error" wit="#A #L #R #M">—¿Con que</rdg>
+		</app>
+	le digo á Luisa?
+</l>
+</lg>
+
+<lg>
+<l>Dejó de oprimir con los dientes el inferior de sus voluptuosos labios para hacer con ellos un gestito que en el lenguaje de Lucía significaba
+		<app>
+		<lem>“á ver y como no,” y</lem>
+			<rdg type="error" wit="#T #A #L #R #M #C #S #N">«á ver y cómo no», y</rdg>
+			<rdg type="error" wit="#D">«á ver y como no,» y</rdg>
+			<rdg type="error" wit="#B">“á ver y cómo no”, y</rdg>
+		</app>
+	en el
+		<app>
+		<lem>mio, “haga lo que quiera.”</lem>
+			<rdg type="error" wit="#M">mio «haga lo que quiera».</rdg>
+			<rdg type="error" wit="#B">mio “haga lo que quiera”.</rdg>
+			<rdg type="error" wit="#T #A #L #R #C #S #N">mio, «haga lo que quiera».</rdg>
+			<rdg type="error" wit="#D">mio, «haga lo que quiera.»</rdg>
+		</app>
+</l>
+</lg>
+
+<lg>
+<l> El becerro, que desesperaba porque le quitaran el bozal, hecho con una
+		<app>
+		<lem>extremidad</lem>
+			<rdg type="error" wit="#D">estremidad</rdg>
+		</app>
+	de la manea, y que lo ataba á una mano de la vaca, quedó á sus anchas con solo
+		<app>
+		<lem>halar</lem>
+			<rdg type="error" wit="#C">balar</rdg>
+		</app>
+	la ordeñadora una punta de la
+		<app>
+		<lem>cerda;</lem>
+			<rdg type="error" wit="#T #D #A #L #R #M">cuerda;</rdg>
+		</app>
+	y
+		<app>
+		<lem>Lucía viéndolo</lem>
+			<rdg type="error" wit="#S #B #N">Lucía, viéndolo</rdg>
+		</app>
+	abalanzarse
+		<app>
+		<lem>sobre</lem>
+			<rdg type="error" wit="#E #H #C #B">á</rdg>
+		</app>
+	la ubre, dijo:
+</l>
+<l> —Eso era lo que te 
+		<app>
+		<lem>querias, cabezon</lem>
+			<rdg type="error" wit="#E #C #B #N">querías; cabezón</rdg>
+		</app>
+	más
+		<app>
+		<lem>fastidioso....</lem>
+			<rdg type="error" wit="#E">fastidioso......</rdg>
+			<rdg type="error" wit="#T #D #A #L #R #M #H #C #S #B #N">fastidioso...</rdg>
+		</app>
+</l>
+</lg>
+
+<lg>
+<l> Después de lo cual entró á la casa llevando sobre la cabeza el socobe y
+		<app>
+		<lem>mirándome al pasar pícaramente</lem>
+			<rdg type="error" wit="#E #H #C #B #N">mirándome pícaramente</rdg>
+		</app>
+		<app>
+		<lem>al</lem>
+			<rdg type="error" wit="#B #N">de</rdg>
+		</app>
+	soslayo.
+</l>
+</lg>
+
+<lg>
+<l> Yo desalojé de una orilla del arroyo una familia de gansos que dormitaban sobre el
+		<app>
+		<lem>césped y</lem>
+			<rdg type="error" wit="#H #C #S #B #N">césped, y</rdg>
+		</app>
+	me puse á hacer mi
+		<app>
+		<lem>tocado</lem>
+			<rdg type="error" wit="#M">tocada</rdg>
+		</app>
+	de
+		<app>
+		<lem>mañana conversando</lem>
+			<rdg type="error" wit="#C">mañana, conversando</rdg>
+		</app>
+	al mismo tiempo con Tránsito y Braulio, quienes tenían las piezas de vestido de
+		<app>
+		<lem>que yo me</lem>
+			<rdg type="error" wit="#B #N">que me</rdg>
+		</app>
+	habia despojado.
+</l>
+</lg>
+
+<lg>
+<l> 
+		<app>
+		<lem>Lucía, gritó</lem>
+			<rdg type="error" wit="#B">¡Lucía!, gritó</rdg>
+			<rdg type="error" wit="#T #R">Lucia,—gritó</rdg>
+			<rdg type="error" wit="#C #N">¡Lucía!—gritó</rdg>
+			<rdg type="error" wit="#S">Lucía—gritó</rdg>
+			<rdg type="error" wit="#E">Lucia! gritó</rdg>
+		</app>
+		<app>
+		<lem>Tránsito, tráete</lem>
+			<rdg type="error" wit="#T #R #S">Tránsito,—tráete</rdg>
+			<rdg type="error" wit="#C">Tránsito—tráete</rdg>
+			<rdg type="error" wit="#B">Tránsito tráete</rdg>
+			<rdg type="error" wit="#N">Tránsito—, tráete</rdg>
+		</app>
+	el paño bordado que está en el baulito
+		<app>
+		<lem>pastuso</lem>
+			<rdg type="error" wit="#M">pestoso</rdg>
+		</app>
+</l>
+<l> —No creas que
+		<app>
+		<lem>viene, le</lem>
+			<rdg type="error" wit="#T #R">viene,—le</rdg>
+			<rdg type="error" wit="#C #S #N">viene—le</rdg>
+			<rdg type="error" wit="#B">viene le</rdg>
+		</app>
+	dije a mi
+		<app>
+		<lem>ahijada;</lem>
+			<rdg type="error" wit="#T #D #A #L #R #M #S">ahijado;</rdg>
+		</app>
+	y les conté en seguida lo que habia conversado con Lucía.
+</l>
+</lg>
+
+<lg>
+<l> Ellos reian á tiempo que Lucía se presentó corriendo con lo que se le habia pedido, contra todo lo que esperábamos; y como
+		<app>
+		<lem>adivinaba</lem>
+			<rdg type="error" wit="#T #R #M #S">adivinara</rdg>
+		</app>
+	de qué habiamos tratado, y que de
+		<app>
+		<lem>ella reian</lem>
+			<rdg type="error" wit="#S">ella se reian</rdg>
+		</app>
+	sus hermanos, me entregó el paño volviendo á un lado la cara para que no se la viese ni verme ella, y se dirigió á Tránsito para hacerle la siguiente
+		<app>
+		<lem>observación:</lem>
+			<rdg type="error" wit="#M">observación.</rdg>
+		</app>
+</l>
+<l> —Ven á ver tu café, porque se me va a
+		<app>
+		<lem>quemar, y</lem>
+			<rdg type="error" wit="#M">quemar y</rdg>
+		</app>
+	déjate de estar ahí riéndote a
+		<app>
+		<lem>carcajadas.</lem>
+			<rdg type="error" wit="#T">carcajas.</rdg>
+		</app>
+</l>
+<l>
+		<app>
+		<lem>—Ya está? preguntó</lem>
+			<rdg type="error" wit="#T #A #L #M #H">—¿Ya está? preguntó</rdg>
+			<rdg type="error" wit="#R #C #S #N">—¿Ya está?—preguntó</rdg>
+			<rdg type="error" wit="#B">—¿Ya está?, preguntó</rdg>
+		</app>
+	Tránsito.
+</l>
+<l>
+		<app>
+		<lem>—Ih! hace tiempos.</lem>
+			<rdg type="error" wit="#T #D #A #L #R #S">—Ya hace tiempo</rdg>
+			<rdg type="error" wit="#M">—Ya hace tiemo</rdg>
+			<rdg type="error" wit="#H #C">—¡Ih! hace tiempos</rdg>
+			<rdg type="error" wit="#B #N">—¡Ih, hace tiempos!</rdg>
+		</app>
+</l>
+<l> —¿Qué es eso de
+		<app>
+		<lem>café? pregunté.</lem>
+			<rdg type="error" wit="#T #C #S #N">café?—pregunté</rdg>
+			<rdg type="error" wit="#B">café?, pregunté</rdg>
+		</app>
+</l>
+<l> —Pues que yo le dije á la señorita, el último dia que estuve allá, que me lo
+		<app>
+		<lem>enseñara</lem>
+			<rdg type="error" wit="#M">enseñare</rdg>
+		</app>
+	á hacer, porque se me pone que á
+		<app>
+		<lem>usté</lem>
+			<rdg type="error" wit="#M">usted</rdg>
+		</app>
+	no le gusta la gamuza; y por eso
+		<app>
+		<lem>fué por lo que</lem>
+			<rdg type="error" wit="#H #C #B #N">fué que</rdg>
+		</app>
+	nos encontró afanadas ordeñando.
+</l>
+<l> Esto decia
+		<app>
+		<lem>colgando</lem>
+			<rdg type="error" wit="#C">colocando</rdg>
+		</app>
+	el paño, que ya habia devuelto yo, en una de las hojas de la palma de helecho pintorescamente colocada en el centro del patio.
+</l>
+</lg>
+
+<lg>
+<l> En la casa llamaban la atención á un mismo tiempo la sencillez, la limpieza y el
+		<app>
+		<lem>órden: todo</lem>
+			<rdg type="error" wit="#C">órden; todo</rdg>
+		</app>
+	olia á cedro, madera de que estaban hechos los rústicos muebles, y florecian
+		<app>
+		<lem>en</lem>
+			<rdg type="error" wit="#B #N">bajo</rdg>
+		</app>
+	los
+		<app>
+		<lem>alares</lem>
+			<rdg type="error" wit="#B #N">aleros</rdg>
+		</app>
+	macetas de claveles y narcisos
+		<app>
+		<lem>con que</lem>
+			<rdg type="error" wit="#C">conque</rdg>
+		</app>
+	la
+		<app>
+		<lem>señora</lem>
+			<rdg type="error" wit="#D #A #L #M">Sra.</rdg>
+		</app>
+	Luisa habia embellecido la cabañita de su
+		<app>
+		<lem>hija: en</lem>
+			<rdg type="error" wit="#C">hija; en</rdg>
+		</app>
+	los pilares habia testas de venados, y las patas disecadas de
+		<app>
+		<lem>los mismos</lem>
+			<rdg type="error" wit="#D #A">las mismas</rdg>
+		</app>
+</l>
+</lg>
+
+<lg>
+<l> Tránsito me
+		<app>
+		<lem>presentó entre</lem>
+			<rdg type="error" wit="#T #R #C #S #N">presentó, entre</rdg>
+		</app>
+	ufana y temerosa, la taza de café con leche, primer ensayo de las lecciones que habia recibido de María; pero felicísimo ensayo, pues desde que
+		<app>
+		<lem>lo</lem>
+			<rdg type="error" wit="#T #R">le</rdg>
+		</app>
+	probé conocí que rivalizaba con aquel que tan primorosamente sabia preparar Juan Ángel.
+</l>
+</lg>
+<lg>
+<l> Braulio y yo fuimos á llamar a José y
+		<app>
+		<lem>y á la</lem>
+			<rdg type="error" wit="#T #A #L #R #M #S">y la</rdg>
+		</app>
+	señora
+		<app>
+		<lem>Luisa, para</lem>
+			<rdg type="error" wit="#T #A #L #R #M">Luisa para</rdg>
+		</app>
+	que almorzasen con nosotros.
+</l>
+<l> El viejo estaba acomodando en
+		<app>
+		<lem>jigras</lem>
+			<rdg type="error" wit="#T #D #A #L #R #M">ligras</rdg>
+			<rdg type="error" wit="#S">ligas</rdg>
+		</app>
+	las
+		<app>
+		<lem>arracachas</lem>
+			<rdg type="error" wit="#T #D #A #L #R #M #S">arranchadas</rdg>
+		</app>
+	y verduras que debia mandar al mercado el dia siguiente, y ella acabando de sacar del horno el pan de
+		<app>
+		<lem>yuca</lem>
+			<rdg type="error" wit="#M">vuca</rdg>
+		</app>
+	que
+		<app>
+		<lem>debia</lem>
+			<rdg type="error" wit="#M">de</rdg>
+			<rdg type="error" wit="#B #N">iba a</rdg>
+		</app>
+	servirnos
+		<app>
+		<lem>para</lem>
+			<rdg type="error" wit="#M">por</rdg>
+		</app>
+	el almuerzo.
+</l>
+<l> La hornada habia sido feliz, como lo demostraban no solamente el color dorado de los
+		<app>
+		<lem>esponjados</lem>
+			<rdg type="error" wit="#M">esponjosos</rdg>
+		</app>
+	panes, sino la fragancia tentadora que despedian.
+</l>
+</lg>
+<lg>
+<l> Almorzábamos todos en la cocina: Tránsito
+		<app>
+		<lem>desempeñaba lista</lem>
+			<rdg type="error" wit="#S">desempeñaba, lista</rdg>
+		</app>
+	y
+		<app>
+		<lem>risueña su</lem>
+			<rdg type="error" wit="#S">risueña, su</rdg>
+			<rdg type="error" wit="#M">risueña el</rdg>
+		</app>
+	papel de
+		<app>
+		<lem>dueño</lem>
+			<rdg type="error" wit="#T #D #A #L #R #M #H #C #S #B #N">dueña</rdg>
+		</app>
+	de casa.
+</l>
+<l> Lucía me amenazaba con los ojos cada vez que le mostraba con los mios á su padre.</l>
+<l> Los
+		<app>
+		<lem>campesinos con</lem>
+			<rdg type="error" wit="#T #R #H #C #S #N">campesinos, con</rdg>
+		</app>
+	una delicadeza instintiva, desechaban toda alusión
+		<app>
+		<lem>á</lem>
+			<rdg type="error" wit="#T #A #L #R #M">de</rdg>
+		</app>
+	mi
+		<app>
+		<lem>viaje, como</lem>
+			<rdg type="error" wit="#H">viaje. como</rdg>
+		</app>
+	para no amargar esas últimas horas que pasábamos juntos.
+</l>
+</lg>
+<lg>
+<l> Eran ya las
+		<app>
+		<lem>once. José,</lem>
+			<rdg type="error" wit="#S">once; José,</rdg>
+		</app>
+	Braulio y yo habiamos visitado el platanal nuevo, el desmonte que estaban haciendo y el maizal en filote.
+</l>
+<l> Reunidos nuevamente en la salita de la casa de Braulio, y sentados en
+		<app>
+		<lem>banquitos</lem>
+			<rdg type="error" wit="#M">banquillos</rdg>
+		</app>
+		<app>
+		<lem>al rededor</lem>
+			<rdg type="error" wit="#A #L #M #C #S #B">alrededor</rdg>
+		</app>
+	de una
+		<app>
+		<lem>atarraya,</lem>
+			<rdg type="error" wit="#S">atarrayas,</rdg>
+			<rdg type="error" wit="#T #D #A #L #R #M #N">atarrayas</rdg>
+			<rdg type="error" wit="#B">atarraya.</rdg>
+		</app>
+	le poniamos las últimas
+		<app>
+		<lem>plomadas;</lem>
+			<rdg type="error" wit="#T #D #A #L #M #R #S">plomadas,</rdg>
+		</app>
+	y la
+		<app>
+		<lem>señora</lem>
+			<rdg type="error" wit="#L">Sra.</rdg>
+		</app>
+	Luisa desgranaba con las muchachas maiz para
+		<app>
+		<lem>pilar.</lem>
+			<rdg type="error" wit="#T #D #A #L #R #M #S">apilar.</rdg>
+		</app>
+</l>
+<l> Ellas y ellos
+		<app>
+		<lem>sentian</lem>
+			<rdg type="error" wit="#T #R #C #S">sentian,</rdg>
+		</app>
+	como
+		<app>
+		<lem>yo,</lem>
+			<rdg type="error" wit="#M">yo</rdg>
+		</app>
+	que se acercaba el momento temible de nuestra despedida.
+</l>
+<l> Todos
+		<app>
+		<lem>guardábamos</lem>
+			<rdg type="error" wit="#T #D #A #L #R #M #S">guardamos</rdg>
+		</app>
+	silencio.
+</l>
+<l> Debia de haber en mi rostro algo que los conmovia, pues esquivaban mirarme.</l>
+<l> Al fin, haciendo una resolución, me
+		<app>
+		<lem>puse en pié,</lem>
+			<rdg type="error" wit="#B #N">levanté,</rdg>
+		</app>
+	despues de haber visto
+		<app>
+		<lem>mi</lem>
+			<rdg type="error" wit="#H">m</rdg>
+		</app>
+	reloj.
+</l>
+<l> Tomé mi escopeta y sus arreos, y al colgarlos en uno de los garabatos de la salita, le dije á Braulio:</l>
+<l> —Siempre que
+		<app>
+		<lem>aciertes</lem>
+			<rdg type="error" wit="#M">aciertas</rdg>
+		</app>
+	un tiro bueno con ella, acuérdate de mí.
+</l>
+<l> El montañés no tuvo voz para darme las gracias.</l>
+</lg>
+<lg>
+<l> La señora Luisa, sentada aún, seguia desgranando la
+		<app>
+		<lem>mazorca</lem>
+			<rdg type="error" wit="#M">mozarca</rdg>
+		</app>
+	que tenia en las
+		<app>
+		<lem>manos</lem>
+			<rdg type="error" wit="#H #C #B #N">manos,</rdg>
+		</app>
+	sin cuidarse de ocultar su lloro.
+</l>
+<l> Tránsito y Lucía,
+		<app>
+		<lem>en</lem>
+			<rdg type="error" wit="#T #A #L #R #M #S">de</rdg>
+		</app>
+		<app>
+		<lem>pié y recostadas</lem>
+			<rdg type="error" wit="#T #D #A #L #R #M #S">pié recostadas</rdg>
+		</app>
+	á un lado y otro de la puerta, me daban la
+		<app>
+		<lem>espalda. Braulio</lem>
+			<rdg type="error" wit="#S">espalda, Braulio</rdg>
+		</app>
+	estaba pálido. José fingia buscar algo en el rincon de las herramientas.
+</l>
+<l> 
+		<app>
+		<lem>—Bueno, señora</lem>
+			<rdg type="error" wit="#B">—Bueno. señora</rdg>
+		</app>
+		<app>
+		<lem>Luisa, dije</lem>
+			<rdg type="error" wit="#T #R #C">Luisa,—dije</rdg>
+			<rdg type="error" wit="#S #N">Luisa—dije</rdg>
+		</app>
+	á la anciana inclinándome para
+		<app>
+		<lem>abrazarla: rece</lem>
+			<rdg type="error" wit="#T #R #C #S">abrazarla:—rece</rdg>
+			<rdg type="error" wit="#N">abrazarla—, rece</rdg>
+		</app>
+</l>
+<l> Ella se puso á sollozar sin responderme.</l>
+</lg>
+<lg>
+<l> En pié sobre el quicio de la puerta, junté en un solo abrazo sobre mi pecho
+		<app>
+		<lem>las cabezas de las muchachas,</lem>
+			<rdg type="error" wit="#M">las muchachas</rdg>
+		</app>	
+		<app>
+		<lem>y</lem>
+			<rdg type="error" wit="#E #H #C #B #N">quienes</rdg>
+		</app>
+	sollozaban miéntras mis lágrimas rodaban por sus
+		<app>
+		<lem>cabelleras.</lem>
+			<rdg type="error" wit="#M">caballeras.</rdg>
+		</app>
+</l>
+<l>
+		<app>
+		<lem>Cuando separándome</lem>
+			<rdg type="error" wit="#C #S">Cuando, separándome</rdg>
+		</app>
+	de
+		<app>
+		<lem>ellas,</lem>
+			<rdg type="error" wit="#B #N">ellas</rdg>
+		</app>
+	me volví para buscar á Braulio y
+		<app>
+		<lem>José, ninguno</lem>
+			<rdg type="error" wit="#B">José. ninguno</rdg>
+		</app>
+	de los dos estaba en la
+		<app>
+		<lem>salita; me</lem>
+			<rdg type="error" wit="#T">salita me</rdg>
+			<rdg type="error" wit="#S">salita: me</rdg>
+		</app>
+	esperaban en el corredor.
+</l>
+<l> —Yo voy
+		<app>
+		<lem>mañana, me</lem>
+			<rdg type="error" wit="#T #R">mañana,—me</rdg>
+			<rdg type="error" wit="#C #S #N">mañana—me</rdg>
+		</app>
+	dijo
+		<app>
+		<lem>José, tendiéndome</lem>
+			<rdg type="error" wit="#B #N">José tendiéndome</rdg>
+			<rdg type="error" wit="#C">José —tendiéndome</rdg>
+		</app>
+	la mano.
+</l>
+<l> Bien sabiamos él y yo que no iría.</l>
+<l> Luego que me soltó de sus brazos Braulio, su tio me estrechó en los suyos, y enjugándose los ojos con la manga de la camisa, tomó el camino de la roza al mismo tiempo que empezaba yo á andar por el
+		<app>
+		<lem>opuesto,</lem>
+			<rdg type="error" wit="#M">puesto,</rdg>
+		</app>
+	seguido de Mayo, y haciendo una señal á Braulio para que no me acompañase.
+</l>
+</lg>
+</div>
+</text>
+</TEI>
